@@ -1,5 +1,5 @@
 # download
-Tencent Game Buddy - Gameloop
+pubg mobile - Tencent Game Buddy - Gameloop
 
 public beta v190 - [Download](https://github.com/t-g-b-ir/download/raw/master/com.tencent.ig%24100103%24ABED41B3B60EB1D9348E9BF66DA294DF%24_SpecialPackage_190.exe)
 -
